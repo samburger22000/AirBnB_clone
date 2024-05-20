@@ -30,7 +30,7 @@ All the development and testing was runned over an operating system Ubuntu 20.04
 
 * On your __bash__ terminal, run the command below:
 ```
-git clone https://github.com/KingDavidJnr/AirBnB_clone.git
+git clone https://github.com/samburger22000/AirBnB_clone.git
 ```
 
 * Change to the `AirBnb_clone` directory and run the command:
